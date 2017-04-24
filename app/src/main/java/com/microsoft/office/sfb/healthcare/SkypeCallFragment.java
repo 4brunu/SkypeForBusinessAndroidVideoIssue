@@ -107,7 +107,7 @@ public class SkypeCallFragment extends Fragment
 
         // https://github.com/OfficeDev/skype-android-app-sdk-samples/issues/41
         // First situation, with this line commented //mConversationHelper.ensureVideoIsStartedAndRunning();
-        // Second situation, with this line uncommented commented mConversationHelper.ensureVideoIsStartedAndRunning();
+        // Second situation, with this line uncommented mConversationHelper.ensureVideoIsStartedAndRunning();
         mConversationHelper.ensureVideoIsStartedAndRunning();
 
         return mRootView;

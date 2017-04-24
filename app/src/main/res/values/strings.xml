@@ -6,7 +6,7 @@
 <resources>
     <string name="app_name">Lamna Healthcare App</string>
 
-    <string name="title_activity_skype_call">Live Chat</string>
+    <string name="title_activity_skype_call"></string>
 
     <string name="userDisplayName">David Trudeau</string>
     <string name="leaveCall">leaveCall</string>

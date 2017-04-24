@@ -89,9 +89,6 @@ public class SkypeCall extends AppCompatActivity
                     }
 
                     break;
-                case R.id.muteAudioMenuItem:
-
-                    break;
                 case R.id.changeCamera:
                     if (mConversation.getVideoService().canSetActiveCamera() == true) {
                         mCallFragment.mConversationHelper.changeActiveCamera();
