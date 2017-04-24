@@ -1,0 +1,21 @@
+<!--
+   - Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license.
+   - See LICENSE in the project root for license information.
+  -->
+
+<resources>
+    <string name="app_name">Lamna Healthcare App</string>
+
+    <string name="title_activity_skype_call">Live Chat</string>
+
+    <string name="userDisplayName">David Trudeau</string>
+    <string name="leaveCall">leaveCall</string>
+    <string name="callEstablished">callEstablished</string>
+    <string name="resume_video">Resume video</string>
+    <string name="mute_audio">Mute audio</string>
+    <string name="callFragmentInflated">inflated</string>
+    <string name="toggle_camera">Toggle camera</string>
+    <string name="canToggleCamera">canToggleCamera</string>
+    <string name="pauseVideo">Pause video</string>
+
+</resources>
